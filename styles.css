@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+  /* background-color: #4B5945; */
+  background-image: url(images/table.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: #FCC737;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+#message {
+  font-size: 1.5rem;
+  color: #ECEBDE;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-style: italic;
+  padding-bottom: 2rem;
+}
+
+.cards-para, .sum-para {
+  font-size: 1.5rem;
+  color: #ECEBDE;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+#cards, #sum {
+  font-size: 1.5rem;
+  color: #ECEBDE;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+#start-btn, #new-btn {
+  position: relative;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: #FCC737;
+  border-radius: 10px;
+  color: #016F32;
+  font-size: 1.2rem;
+  font-weight: 900;
+  padding: 0.65rem 2rem;
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: ease-out 0.5s;
+}
+
+#start-btn:active {
+  transform: translateY(4px);
+}
+
+#new-btn:active {
+ transform: translateY(4px);
+}
+
+#player-info {
+  font-size: 1.3rem;
+  color: white;
+  font-weight: 900;
+  letter-spacing: 2px;
+
+}
