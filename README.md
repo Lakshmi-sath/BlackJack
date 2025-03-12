@@ -4,5 +4,7 @@
 
   [Live Demo ▶](https://black-jack-lucky.netlify.app/)
 
-  ![Black Jack](
+
+  ![Black Jack](images/Black Jack.png)
+  
 </div>
